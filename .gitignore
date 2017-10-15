@@ -1,0 +1,11 @@
+# snapcraft build artifacts
+parts/
+stage/
+prime/
+snap/
+*.snap
+
+# npm artifacts
+.npm
+npm-debug.log*
+node_modules/
